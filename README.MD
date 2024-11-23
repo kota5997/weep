@@ -2,7 +2,7 @@
 Weep is a free selfbot that brings your discord experience to the next level.
 
 # ETA
-december 2025
+december 2025 (2% done) :p
 
 
 ## Authors
